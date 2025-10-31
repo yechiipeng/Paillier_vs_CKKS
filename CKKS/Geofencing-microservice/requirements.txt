@@ -1,0 +1,5 @@
+Flask==3.0.3
+tenseal==0.3.16
+requests==2.32.3
+gunicorn==20.1.0
+overpass==0.7.1
