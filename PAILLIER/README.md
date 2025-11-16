@@ -3,7 +3,7 @@
 Tojehova Ajero
 ### Supervisor:
 Dr Hai-Van Dang
-### Project Vision
+
 
 #### How to Run:
 Open Docker and VScode. In VScode open project folder and cd into the specific folder (ckks or paillier), then run the command "docker-compose up -d --build". Wait for it to fetch all geofences. 
